@@ -1,0 +1,23 @@
+
+fecha,producto,categoria,cantidad,precio,costo
+2026-09-01,Cafe americano,Bebidas,12,2.00,0.70
+2026-09-01,Capuchino,Bebidas,8,2.50,0.90
+2026-09-01,Sandwich,Comida,5,3.50,1.80
+2026-09-02,Cafe americano,Bebidas,15,2.00,0.70
+2026-09-02,Capuchino,Bebidas,10,2.50,0.90
+2026-09-02,Pastel,Comida,4,2.75,1.20
+2026-09-03,Cafe americano,Bebidas,9,2.00,0.70
+2026-09-03,Capuchino,Bebidas,7,2.50,0.90
+2026-09-03,Sandwich,Comida,8,3.50,1.80
+2026-09-04,Cafe americano,Bebidas,18,2.00,0.70
+2026-09-04,Capuchino,Bebidas,12,2.50,0.90
+2026-09-04,Pastel,Comida,6,2.75,1.20
+2026-09-05,Cafe americano,Bebidas,20,2.00,0.70
+2026-09-05,Capuchino,Bebidas,15,2.50,0.90
+2026-09-05,Sandwich,Comida,10,3.50,1.80
+2026-09-06,Cafe americano,Bebidas,11,2.00,0.70
+2026-09-06,Capuchino,Bebidas,9,2.50,0.90
+2026-09-06,Pastel,Comida,7,2.75,1.20
+2026-09-07,Cafe americano,Bebidas,14,2.00,0.70
+2026-09-07,Capuchino,Bebidas,11,2.50,0.90
+2026-09-07,Sandwich,Comida,6,3.50,1.80
