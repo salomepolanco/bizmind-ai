@@ -4,3 +4,4 @@ streamlit
 pandas
 chromadb
 python-dotenv
+protobuf==4.25.8
